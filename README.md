@@ -2,6 +2,9 @@
 
 Module that contains functions to perform Logistic Regression for Binary Classification Machine Learning problems.
 
+Language: Python 2.7
+Additional modules: numpy, matplotlib
+
 FUNCTIONS:
 
 1. Sigmoid, as the probability for the event to occur. If the argument overcomes 100 in absolute value, then 100 is used (no change in result)
