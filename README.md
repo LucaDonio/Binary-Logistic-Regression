@@ -34,4 +34,4 @@ FUNCTIONS:
     
     b. Alg: algorithm used to calculate Theta ('normEq' or 'gradDescent')
   
-NOTE: make sure to include the bias column in the matrix X before passing it to any function.
+NOTE: make sure to include the bias column in matrix X before passing it to any function.
