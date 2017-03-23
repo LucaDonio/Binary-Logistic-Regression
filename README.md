@@ -33,3 +33,5 @@ FUNCTIONS:
     a. Theta, X: as in binCostFunction
     
     b. Alg: algorithm used to calculate Theta ('normEq' or 'gradDescent')
+  
+NOTE: make sure to include the bias column in the matrix X before passing it to any function.
