@@ -3,6 +3,7 @@
 Module that contains functions to perform Logistic Regression for Binary Classification Machine Learning problems.
 
 Language: Python 2.7
+
 Additional modules: numpy, matplotlib
 
 FUNCTIONS:
