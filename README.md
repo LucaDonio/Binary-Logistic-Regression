@@ -5,7 +5,7 @@ This is an ongoing project, so the file will be updated with new functions as so
 
 Language: Python 2.7
 
-Additional modules: numpy, matplotlib
+Additional modules: numpy, matplotlib, scipy
 
 FUNCTIONS:
 
